@@ -24,7 +24,7 @@ cd wabot-aq
 
 bash install.sh
 
-npm update
+npm audit fix
 
 npm start
 
