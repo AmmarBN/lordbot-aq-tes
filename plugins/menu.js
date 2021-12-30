@@ -46,7 +46,7 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github:
-│ https://github.com/AmmarBN/lordbot-aq-tes (masih uji coba)
+│ https://github.com/AmmarBN/lordbot-aq-tes
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
