@@ -1,7 +1,7 @@
 let handler = async (m, { conn, usedPrefix }) => {
     let id = m.chat
     conn.absen = conn.absen ? conn.absen : {}
-    if (!(id in conn.absen)) return conn.sendButton(m.chat, `Tidak ada absen berlangsung!`, '© wabot-aq', 'Mulai', `${usedPrefix}+absen`, m)
+    if (!(id in conn.absen)) return conn.sendButton(m.chat, `Tidak ada absen berlangsung!`, '©Lord Botz', 'Mulai', `${usedPrefix}+absen`, m)
     let d = new Date
     let date = d.toLocaleDateString('id', {
         day: 'numeric',
