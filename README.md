@@ -1,8 +1,9 @@
 # lordbot-aq-tes
 
 Simple WhatsApp Bot
+Script Lord Botz Ini Adalah Pengodean Ulang
+Dari Script ©wabot-aq
 
-©wabot-aq
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
 
