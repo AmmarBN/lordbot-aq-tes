@@ -234,7 +234,7 @@ jadibot: false,
 
 ----|----|----|----
 
-[XTEAM](https://api.xteam.xyz/) | [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Ftwrr](https://github.com/Ftwrr)| [AmmarBN](https://github.com/AmmarBN)
+[XTEAM (Rest Apikey)](https://api.xteam.xyz/) | [Nurutomo (Creator)](https://github.com/Nurutomo) | [Ariffb (Creator)](https://github.com/ariffb25) | [Ftwrr (Creator)](https://github.com/Ftwrr)| [AmmarBN (Creator/Penulis Ulang)](https://github.com/AmmarBN)
 
 Powered by XTEAM | Author / Creator | Most Active Contributor | 2nd Most Active Contributor
 
