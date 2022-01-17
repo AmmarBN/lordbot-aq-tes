@@ -4,7 +4,7 @@ let handler = async (m, { conn, usedPrefix, isAdmin, isOwner }) => {
     }
     let id = m.chat
     conn.absen = conn.absen ? conn.absen : {}
-    if (!(id in conn.absen)) return conn.sendButton(m.chat, `Tidak ada absen berlangsung!`, '©Lord Botz', 'Mulai', `${usedPrefix}+absen`, m)
+    if (!(id in conn.absen)) return conn.sendButton(m.chat, `Tidak ada absen berlangsung!`, '©Lord Botz && stikerinbot', 'Mulai', `${usedPrefix}+absen`, m)
     delete conn.absen[id]
     m.reply(`Absen berhasil dihapus`)
 }
